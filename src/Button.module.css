@@ -1,0 +1,7 @@
+.btn {
+  background-color: var(--secondary-color);
+  color: #fff;
+  padding: 0.875rem 1.375rem;
+  border: none;
+  text-transform: uppercase;
+}
